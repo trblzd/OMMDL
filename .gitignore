@@ -57,3 +57,10 @@ Temporary Items
 # GameMaker temporary files
 *.resource_order
 *.old
+*.yyp~
+*.yyz
+.idea/
+*.temp
+*.dll
+*.exe
+*.yyc
