@@ -8,10 +8,17 @@
     "children":[],
     "name":"Default",
   },
+<<<<<<< HEAD
   "defaultScriptType":0,
   "Folders":[
     {"$GMFolder":"","%Name":"Caminhos","folderPath":"folders/Caminhos.yy","name":"Caminhos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Cenas","folderPath":"folders/Cenas.yy","name":"Cenas","resourceType":"GMFolder","resourceVersion":"2.0",},
+=======
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Caminhos","folderPath":"folders/Caminhos.yy","name":"Caminhos","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+>>>>>>> 991da5b (Botao funcionando na Pag inicial, direcionando pra Home)
     {"$GMFolder":"","%Name":"Conjuntos de tiles","folderPath":"folders/Conjuntos de tiles.yy","name":"Conjuntos de tiles","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Curvas da animação","folderPath":"folders/Curvas da animação.yy","name":"Curvas da animação","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Linhas do tempo","folderPath":"folders/Linhas do tempo.yy","name":"Linhas do tempo","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -40,6 +47,11 @@
   },
   "name":"OMMDL",
   "resources":[
+<<<<<<< HEAD
+=======
+    {"id":{"name":"BOTAO","path":"objects/BOTAO/BOTAO.yy",},},
+    {"id":{"name":"prox","path":"objects/prox/prox.yy",},},
+>>>>>>> 991da5b (Botao funcionando na Pag inicial, direcionando pra Home)
     {"id":{"name":"Configuracoes","path":"rooms/Configuracoes/Configuracoes.yy",},},
     {"id":{"name":"Conquistas","path":"rooms/Conquistas/Conquistas.yy",},},
     {"id":{"name":"Home","path":"rooms/Home/Home.yy",},},

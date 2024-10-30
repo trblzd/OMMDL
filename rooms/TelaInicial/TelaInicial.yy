@@ -5,9 +5,20 @@
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
+<<<<<<< HEAD
   "instanceCreationOrder":[],
   "isDnd":false,
   "layers":[
+=======
+  "instanceCreationOrder":[
+    {"name":"inst_58903C49","path":"rooms/TelaInicial/TelaInicial.yy",},
+  ],
+  "isDnd":false,
+  "layers":[
+    {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v1","%Name":"inst_58903C49","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_58903C49","objectId":{"name":"prox","path":"objects/prox/prox.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":1910.0,"y":1496.0,},
+      ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+>>>>>>> 991da5b (Botao funcionando na Pag inicial, direcionando pra Home)
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_2BF16776","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_2BF16776","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"spriteId":{"name":"CASTELO_1","path":"sprites/CASTELO_1/CASTELO_1.yy",},"x":1080.0,"y":778.0,},
         {"$GMRSpriteGraphic":"","%Name":"graphic_17CA2324","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_17CA2324","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"spriteId":{"name":"ILUTRA_UM","path":"sprites/ILUTRA_UM/ILUTRA_UM.yy",},"x":1080.0,"y":810.0,},
@@ -19,6 +30,11 @@
         {"$GMRSpriteGraphic":"","%Name":"graphic_69F71B40","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_69F71B40","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"spriteId":{"name":"S2_1_2","path":"sprites/S2_1_2/S2_1_2.yy",},"x":304.0,"y":1408.0,},
         {"$GMRSpriteGraphic":"","%Name":"graphic_2AFC52E","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_2AFC52E","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"spriteId":{"name":"S2_1_3","path":"sprites/S2_1_3/S2_1_3.yy",},"x":1520.0,"y":256.0,},
         {"$GMRSpriteGraphic":"","%Name":"graphic_7D39D8B6","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_7D39D8B6","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"spriteId":{"name":"S2_118","path":"sprites/S2_118/S2_118.yy",},"x":224.0,"y":288.0,},
+<<<<<<< HEAD
+=======
+        {"$GMRInstance":"v1","%Name":"inst_15816C63","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":true,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_15816C63","objectId":null,"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1728.0,"y":1472.0,},
+        {"$GMRInstance":"v1","%Name":"inst_18423981","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_18423981","objectId":null,"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1715.0,"y":1440.0,},
+>>>>>>> 991da5b (Botao funcionando na Pag inicial, direcionando pra Home)
         {"$GMRSpriteGraphic":"","%Name":"graphic_7E5BB10","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_7E5BB10","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"spriteId":{"name":"Component_16","path":"sprites/Component_16/Component_16.yy",},"x":1910.0,"y":1496.0,},
         {"$GMRSpriteGraphic":"","%Name":"graphic_AC2B214","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_AC2B214","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"spriteId":{"name":"S2_1","path":"sprites/S2_1/S2_1.yy",},"x":1824.0,"y":512.0,},
         {"$GMRSpriteGraphic":"","%Name":"graphic_63A59D0B","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_63A59D0B","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"spriteId":{"name":"S2","path":"sprites/S2/S2.yy",},"x":528.0,"y":1232.0,},
@@ -36,14 +52,23 @@
         {"$GMRSpriteGraphic":"","%Name":"graphic_A041814","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_A041814","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"spriteId":{"name":"LUA_1","path":"sprites/LUA_1/LUA_1.yy",},"x":320.0,"y":1104.0,},
         {"$GMRSpriteGraphic":"","%Name":"graphic_154DA442","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_154DA442","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"spriteId":{"name":"Planeta5_1","path":"sprites/Planeta5_1/Planeta5_1.yy",},"x":1728.0,"y":848.0,},
         {"$GMRSpriteGraphic":"","%Name":"graphic_12C96EE2","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_12C96EE2","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"spriteId":{"name":"TERRA_1","path":"sprites/TERRA_1/TERRA_1.yy",},"x":1952.0,"y":320.0,},
+<<<<<<< HEAD
       ],"depth":0,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Assets_1","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+=======
+      ],"depth":100,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Assets_1","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+>>>>>>> 991da5b (Botao funcionando na Pag inicial, direcionando pra Home)
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":true,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"PAGINA_129","path":"sprites/PAGINA_129/PAGINA_129.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"TelaInicial",
   "parent":{
+<<<<<<< HEAD
     "name":"Cenas",
     "path":"folders/Cenas.yy",
+=======
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
+>>>>>>> 991da5b (Botao funcionando na Pag inicial, direcionando pra Home)
   },
   "parentRoom":null,
   "physicsSettings":{

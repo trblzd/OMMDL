@@ -28,8 +28,13 @@
   ],
   "name":"Home",
   "parent":{
+<<<<<<< HEAD
     "name":"Cenas",
     "path":"folders/Cenas.yy",
+=======
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
+>>>>>>> 991da5b (Botao funcionando na Pag inicial, direcionando pra Home)
   },
   "parentRoom":null,
   "physicsSettings":{
