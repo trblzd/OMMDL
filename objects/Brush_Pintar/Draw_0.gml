@@ -10,11 +10,6 @@
             draw_circle_color(mouse_x, mouse_y, paint_width, global.vColor[|paint_color], global.vColor[|paint_color], false);
         }
         
-        if paint_clear {
-            draw_clear_alpha(c_black, 0)
-            paint_clear = false;
-        }
-        
         surface_reset_target();
         surf_painting_update = false;
     }

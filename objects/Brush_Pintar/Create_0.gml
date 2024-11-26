@@ -12,5 +12,4 @@ surf_painting_update = true;
 // Memoria Pintar
 paint_active = false;
 paint_width = 12;
-paint_color = eColor.Branco;
-paint_clear = true;
+paint_color = eColor.Borracha;

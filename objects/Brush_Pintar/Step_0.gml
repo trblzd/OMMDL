@@ -11,6 +11,3 @@
         surf_painting_update = true;
      }
     }
-
-    
-    

@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Group_31",
-    "path":"sprites/Group_31/Group_31.yy",
+    "name":"Group_31613",
+    "path":"sprites/Group_31613/Group_31613.yy",
   },
   "spriteMaskId":null,
   "visible":true,
