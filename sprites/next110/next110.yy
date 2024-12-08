@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Tela1",
-    "path":"folders/Sprites/Tela1.yy",
+    "name":"Fixos",
+    "path":"folders/Sprites/Fixos.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
