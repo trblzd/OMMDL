@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"2e7d3eab-fbc2-4d0f-abc4-5988b2ba2188","name":"2e7d3eab-fbc2-4d0f-abc4-5988b2ba2188","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"1d4c4e38-30c4-4978-9b49-a830ec241e57","name":"1d4c4e38-30c4-4978-9b49-a830ec241e57","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":1044,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"f6ef22ba-9e16-42f8-a021-87a1a2d17e9f","blendMode":0,"displayName":"default","isLocked":false,"name":"f6ef22ba-9e16-42f8-a021-87a1a2d17e9f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"158824ad-820f-4a29-90d7-491c4516f50c","blendMode":0,"displayName":"default","isLocked":false,"name":"158824ad-820f-4a29-90d7-491c4516f50c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"geoblock",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2e7d3eab-fbc2-4d0f-abc4-5988b2ba2188","path":"sprites/geoblock/geoblock.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"4fdd6af0-1f62-4fbd-8893-db5f39f989cc","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1d4c4e38-30c4-4978-9b49-a830ec241e57","path":"sprites/geoblock/geoblock.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a3dc720f-54d7-4276-83f5-56d6baeabd10","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

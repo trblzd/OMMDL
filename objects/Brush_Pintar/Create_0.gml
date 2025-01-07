@@ -11,7 +11,7 @@ surf_painting_update = true;
 
 // Memória para pintar
 paint_active = false;
-paint_width = 15;
+paint_width = 18;
 paint_color = eColor.Borracha;
 
 // Armazena a posição anterior do mouse
