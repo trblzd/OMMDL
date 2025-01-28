@@ -9,8 +9,8 @@
   "name":"BotaoNarrativa",
   "overriddenProperties":[],
   "parent":{
-    "name":"Menus",
-    "path":"folders/Objetos/Menus.yy",
+    "name":"Configuracoes",
+    "path":"folders/Objetos/Configuracoes.yy",
   },
   "parentObjectId":null,
   "persistent":false,

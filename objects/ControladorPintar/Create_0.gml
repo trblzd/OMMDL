@@ -1,8 +1,10 @@
-// Inicializa as variáveis locais
-tempo_inicio = -1; // Marcador para verificar quando o timer começa
-delta_tempo = 0;   // Tempo decorrido
-
-// Inicializa a variável global, se ainda não existir
+// Inicializa a variável global para a conquista, se necessário
 if (!variable_global_exists("global.pintor")) {
-    global.pintor = 0;
+    global.pintor = false; // Conquista inicialmente não liberada
 }
+
+x = 1472;
+y = 112;
+image_xscale = 0.5;
+image_yscale = 0.5;
+video_exibido = false

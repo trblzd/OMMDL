@@ -1,0 +1,1 @@
+video_exibido = false; // Nova variável para rastrear se o vídeo já foi exibido

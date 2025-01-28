@@ -11,20 +11,14 @@
     {"name":"inst_8316FAC","path":"rooms/Tela06_Pato/Tela06_Pato.yy",},
     {"name":"inst_2A683192","path":"rooms/Tela06_Pato/Tela06_Pato.yy",},
     {"name":"inst_3959B8EC","path":"rooms/Tela06_Pato/Tela06_Pato.yy",},
-    {"name":"inst_50A38D84","path":"rooms/Tela06_Pato/Tela06_Pato.yy",},
-    {"name":"inst_597B14EA","path":"rooms/Tela06_Pato/Tela06_Pato.yy",},
-    {"name":"inst_77E0F638","path":"rooms/Tela06_Pato/Tela06_Pato.yy",},
-    {"name":"inst_1F7692B3","path":"rooms/Tela06_Pato/Tela06_Pato.yy",},
     {"name":"inst_131117A6","path":"rooms/Tela06_Pato/Tela06_Pato.yy",},
+    {"name":"inst_50A38D84","path":"rooms/Tela06_Pato/Tela06_Pato.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_50A38D84","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_50A38D84","objectId":{"name":"FecharPopUp","path":"objects/FecharPopUp/FecharPopUp.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":150.0,"y":112.0,},
-        {"$GMRInstance":"v1","%Name":"inst_597B14EA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_597B14EA","objectId":{"name":"Parabens","path":"objects/Parabens/Parabens.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1120.0,"y":736.0,},
-        {"$GMRInstance":"v1","%Name":"inst_77E0F638","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_77E0F638","objectId":{"name":"PatoBens","path":"objects/PatoBens/PatoBens.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1120.0,"y":736.0,},
-        {"$GMRInstance":"v1","%Name":"inst_1F7692B3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1F7692B3","objectId":{"name":"PatoPara","path":"objects/PatoPara/PatoPara.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1120.0,"y":736.0,},
-      ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":false,},
+      ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":false,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_519C865D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_519C865D","objectId":{"name":"ConfigPadrao","path":"objects/ConfigPadrao/ConfigPadrao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":2050.0,"y":112.0,},
         {"$GMRInstance":"v1","%Name":"inst_48C33B8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_48C33B8","objectId":{"name":"ConqPadrao","path":"objects/ConqPadrao/ConqPadrao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":1890.0,"y":112.0,},

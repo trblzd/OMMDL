@@ -18,7 +18,7 @@ if (instance_exists(ConqMapa)) {
 
 // Verifica e atualiza o estado de ConqSolar
 if (instance_exists(ConqSolar)) {
-    if (global.pintor == 5) {
+    if (global.pintor == true) {
         ConqSolar.sprite_index = pintorcolorido;
     } else {
         ConqSolar.sprite_index = pintorbloq;

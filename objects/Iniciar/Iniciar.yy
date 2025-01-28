@@ -3,13 +3,14 @@
   "%Name":"Iniciar",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"Iniciar",
   "overriddenProperties":[],
   "parent":{
-    "name":"Menus",
-    "path":"folders/Objetos/Menus.yy",
+    "name":"Conquistas",
+    "path":"folders/Objetos/Conquistas.yy",
   },
   "parentObjectId":null,
   "persistent":false,

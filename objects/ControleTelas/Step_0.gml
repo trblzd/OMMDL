@@ -55,10 +55,3 @@ else {
 }
 
 }
-if (room == Tela05_Brinquedos && !global.capitulo2_desbloqueado) {
-    global.capitulo2_desbloqueado = true; // Desbloqueia o Capítulo 2
-}
-
-if (room == Tela10_Dado && !global.capitulo3_desbloqueado) {
-    global.capitulo3_desbloqueado = true; // Desbloqueia o Capítulo 3
-}

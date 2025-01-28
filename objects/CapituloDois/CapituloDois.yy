@@ -9,8 +9,8 @@
   "name":"CapituloDois",
   "overriddenProperties":[],
   "parent":{
-    "name":"Menus",
-    "path":"folders/Objetos/Menus.yy",
+    "name":"Home",
+    "path":"folders/Objetos/Home.yy",
   },
   "parentObjectId":null,
   "persistent":false,

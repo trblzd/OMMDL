@@ -1,3 +1,4 @@
-if(global.audio = 1){
-audio_sound_loop (ins_sound, true);
+// Ajusta o volume do som enquanto ele estiver ativo
+if (audio_is_playing(global.ins_sound)) {
+    audio_sound_gain(global.ins_sound, global.volume, 0);
 }

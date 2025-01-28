@@ -8,8 +8,8 @@
   "name":"ConqAlt",
   "overriddenProperties":[],
   "parent":{
-    "name":"Menus",
-    "path":"folders/Objetos/Menus.yy",
+    "name":"Conquistas",
+    "path":"folders/Objetos/Conquistas.yy",
   },
   "parentObjectId":null,
   "persistent":false,
