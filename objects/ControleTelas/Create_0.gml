@@ -18,7 +18,6 @@ var audio_padrao = true;  // Áudio ativado
 var volume_padrao = 0.5;  // Volume em 50%
 var narrativa_padrao = false; // Narrativa hipertextual desativada
 
-// Carrega as configurações salvas ou aplica os padrões
 ini_open("config.ini");
 
 // Estado do áudio
@@ -47,8 +46,9 @@ if (!ini_key_exists("narrativa", "ativo")) {
 
 ini_close();
 
-// Inicia o som global
-global.ins_sound = audio_play_sound(LunaTrilha, global.volume, true);
-if (!global.audio_ativo) {
+// Inicia o som global apenas se o áudio estiver ativo
+if (global.audio_ativo) {
+    global.ins_sound = audio_play_sound(LunaTrilha, global.volume, true);
+} else {
     audio_master_gain(0); // Silencia o áudio se estiver desativado
 }

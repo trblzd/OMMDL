@@ -1,5 +1,5 @@
 // Verifica se o mapa foi concluído e se o vídeo ainda não foi exibido
-if (global.mapasfeito == true && !video_exibidos) {
+if (global.mapasfeito == true && global.mapasplayed = false) {
      if (global.video_ativo == "") {
         global.video_ativo = "Mapa"; // Define o vídeo como ativo
         instance_create_layer(0, 0, "Instances_3", VideoMapa); // Cria o vídeo correspondente
@@ -12,6 +12,6 @@ if (global.mapasfeito == true && !video_exibidos) {
 
         // Marca que o vídeo foi exibido
         global.sparkle_played = false;
-        video_exibidos = true;
+        global.mapasplayed = true;
     }
 }

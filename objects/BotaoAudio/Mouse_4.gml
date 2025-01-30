@@ -11,8 +11,3 @@ if (estado_ativo) {
 } else {
     audio_master_gain(0); // Silencia o áudio
 }
-
-// Salva o estado de áudio
-ini_open("config.ini");
-ini_write_string("audio", "ativo", string(global.audio_ativo));
-ini_close();

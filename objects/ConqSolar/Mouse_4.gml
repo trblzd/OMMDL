@@ -1,4 +1,4 @@
-if (global.pintor == 5) { 
+if (global.pintor = true) { 
 global.tela_atual = ConquistaPintor;
 }
 else {

@@ -9,6 +9,7 @@
     {"name":"inst_4E82F6A5","path":"rooms/Final/Final.yy",},
     {"name":"inst_9C5BC46","path":"rooms/Final/Final.yy",},
     {"name":"inst_97183FC","path":"rooms/Final/Final.yy",},
+    {"name":"inst_76E1456D","path":"rooms/Final/Final.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -16,6 +17,7 @@
         {"$GMRInstance":"v1","%Name":"inst_4E82F6A5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4E82F6A5","objectId":{"name":"ConfigPadrao","path":"objects/ConfigPadrao/ConfigPadrao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":2050.0,"y":112.0,},
         {"$GMRInstance":"v1","%Name":"inst_9C5BC46","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_9C5BC46","objectId":{"name":"ConqPadrao","path":"objects/ConqPadrao/ConqPadrao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":1890.0,"y":112.0,},
         {"$GMRInstance":"v1","%Name":"inst_97183FC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_97183FC","objectId":{"name":"HomePadrao","path":"objects/HomePadrao/HomePadrao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":1730.0,"y":112.0,},
+        {"$GMRInstance":"v1","%Name":"inst_76E1456D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_76E1456D","objectId":{"name":"Voltar","path":"objects/Voltar/Voltar.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":128.0,"y":1504.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_29D0A329","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_29D0A329","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"spriteId":{"name":"DOTS486","path":"sprites/DOTS486/DOTS486.yy",},"x":1080.0,"y":810.0,},

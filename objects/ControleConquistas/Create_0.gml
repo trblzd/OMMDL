@@ -7,5 +7,5 @@ if (!variable_global_exists("global.mapas")) {
     global.mapas = 0;
 }
 if (!variable_global_exists("global.pintor")) {
-    global.pintor = 0;
+    global.pintor = false;
 }

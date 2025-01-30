@@ -1,5 +1,5 @@
 // Verifica a condição para ativar o vídeo
-if (global.brinquedos == 5 && !video_exibido) { // Condição para ativar o vídeo
+if (global.brinquedos == 5 && global.brinquedosplayed = false) { // Condição para ativar o vídeo
     sprite_index = luna_feliz_1; 
     x = 960;
     y = 102;
@@ -17,7 +17,7 @@ if (global.brinquedos == 5 && !video_exibido) { // Condição para ativar o víd
 
         // Marca que o vídeo foi exibido
         global.sparkle_played = false;
-        video_exibido = true;
+        global.brinquedosplayed = true;
     }
 }
 
