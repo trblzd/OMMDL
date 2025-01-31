@@ -6,9 +6,8 @@ ConqPadrao.visible = false;
 ConfigPadrao.visible = false;
 ControladorPintar.visible = false;
 Coresplanetas.visible = false;
-FecharColorir.visible = true;
 
-// Apenas toca o vídeo UMA vez
+global.salvar_clicado = true;
 if (global.pintarplayed = false) {
     // Apenas ativa se nenhum outro vídeo estiver ativo
     if (global.video_ativo == "") {

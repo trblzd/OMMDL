@@ -17,3 +17,4 @@ if (array_contains(global.salas_jogo, global.tela_atual)) {
         global.tela_atual = global.ultima_tela;
     }
 }
+
