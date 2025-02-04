@@ -18,7 +18,6 @@
     {"name":"inst_24F7DE2E","path":"rooms/Tela05_Brinquedos/Tela05_Brinquedos.yy",},
     {"name":"inst_5D2822FA","path":"rooms/Tela05_Brinquedos/Tela05_Brinquedos.yy",},
     {"name":"inst_7DB2562D","path":"rooms/Tela05_Brinquedos/Tela05_Brinquedos.yy",},
-    {"name":"inst_FA583F3","path":"rooms/Tela05_Brinquedos/Tela05_Brinquedos.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -37,7 +36,6 @@
         {"$GMRInstance":"v1","%Name":"inst_6DBC6A02","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6DBC6A02","objectId":{"name":"HomePadrao","path":"objects/HomePadrao/HomePadrao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":1730.0,"y":112.0,},
         {"$GMRInstance":"v1","%Name":"inst_24F7DE2E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_24F7DE2E","objectId":{"name":"Next","path":"objects/Next/Next.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":2050.0,"y":1520.0,},
         {"$GMRInstance":"v1","%Name":"inst_5D2822FA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5D2822FA","objectId":{"name":"Voltar","path":"objects/Voltar/Voltar.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":96.0,"y":1504.0,},
-        {"$GMRInstance":"v1","%Name":"inst_FA583F3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_FA583F3","objectId":{"name":"ControleObjeto","path":"objects/ControleObjeto/ControleObjeto.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_2378049","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_2378049","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"spriteId":{"name":"Rectangle_3212","path":"sprites/Rectangle_3212/Rectangle_3212.yy",},"x":1080.0,"y":1373.0,},

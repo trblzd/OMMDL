@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite611",
-    "path":"sprites/Sprite611/Sprite611.yy",
+    "name":"Vector276",
+    "path":"sprites/Vector276/Vector276.yy",
   },
   "spriteMaskId":null,
   "visible":true,

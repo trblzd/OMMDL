@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Quebrcab",
-    "path":"sprites/Quebrcab/Quebrcab.yy",
+    "name":"AtvObj",
+    "path":"sprites/AtvObj/AtvObj.yy",
   },
   "spriteMaskId":null,
   "visible":true,
