@@ -29,7 +29,7 @@
   "option_windows_steam_use_alternative_launcher":false,
   "option_windows_texture_page":"8192x8192",
   "option_windows_use_splash":true,
-  "option_windows_version":"1.0.0.1",
+  "option_windows_version":"1.0.0.3",
   "option_windows_vsync":false,
   "resourceType":"GMWindowsOptions",
   "resourceVersion":"2.0",

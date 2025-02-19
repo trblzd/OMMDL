@@ -1,4 +1,3 @@
-x = 1472;
-y = 112;
-image_xscale = 0.5;
-image_yscale = 0.5;
+// Define o tempo de espera: 2 minutos (120 segundos) em frames
+global.alarmReady = false;
+alarm[0] = 20 * room_speed;
