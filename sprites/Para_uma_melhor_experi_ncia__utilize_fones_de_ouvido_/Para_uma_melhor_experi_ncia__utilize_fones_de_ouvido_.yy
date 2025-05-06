@@ -32,7 +32,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"Para_uma_melhor_experi_ncia__utilize_fones_de_ouvido_",
     "autoRecord":true,
     "backdropHeight":768,
@@ -63,6 +63,8 @@
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
+    "seqHeight":271.0,
+    "seqWidth":1441.0,
     "showBackdrop":true,
     "showBackdropImage":false,
     "timeUnits":1,
