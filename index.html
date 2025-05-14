@@ -28,6 +28,8 @@
                 margin: 0px;
                 padding: 0px;
                 border: 0px;
+                height: 100%;
+                width: auto;
             }
 
             canvas {
@@ -38,13 +40,15 @@
                 margin: 0px;
                 padding: 0px;
                 border: 0px;
+                height: 100%;
+                width: auto;
             }
             :-webkit-full-screen #canvas {
-                width: 100%;
+                width: auto;
                 height: 100%;
             }
             :-webkit-full-screen {
-                width: 100%;
+                width: auto;
                 height: 100%;
             }
             
@@ -93,7 +97,7 @@
         <div class="gm4html5_div_class" id="gm4html5_div_id">
             
             <!-- Builtin injector for splash screen -->
-            
+            <img src="html5game/splash.png" id="GM4HTML5_loadingscreen" alt="GameMaker:HTML5 loading screen" style="display:none;"/>
 
             <!-- Create the canvas element the game draws to -->
             <canvas id="canvas" width="2160" height="1620" style="position: absolute; top: 50%; left: 50%; bottom: -50%; right: -50%; transform: translate(-50%, -50%);">
@@ -102,7 +106,7 @@
         </div>
 
         <!-- Run the game code -->
-        <script type="text/javascript" src="html5game/OMMDL.js?cachebust=82949247"></script>
+        <script type="text/javascript" src="html5game/OMMDL.js?cachebust=161251734"></script>
 
         <!-- Builtin injector for injecting runner path -->
         
